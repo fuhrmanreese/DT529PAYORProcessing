@@ -1,0 +1,32 @@
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\Payor Recipient Information\Payor Recipient Information\Payor Recipient Information\obj\Debug\net8.0-windows\DT529PAYOR.csproj.AssemblyReference.cache
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\Payor Recipient Information\Payor Recipient Information\Payor Recipient Information\obj\Debug\net8.0-windows\DT529PAYOR.DT529PAYOR.resources
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\Payor Recipient Information\Payor Recipient Information\Payor Recipient Information\obj\Debug\net8.0-windows\Payor_Recipient_Information.Properties.Resources.resources
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\Payor Recipient Information\Payor Recipient Information\Payor Recipient Information\obj\Debug\net8.0-windows\DT529PAYOR.csproj.GenerateResource.cache
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\Payor Recipient Information\Payor Recipient Information\Payor Recipient Information\obj\Debug\net8.0-windows\DT529PAYOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\Payor Recipient Information\Payor Recipient Information\Payor Recipient Information\obj\Debug\net8.0-windows\DT529PAYOR.AssemblyInfoInputs.cache
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\Payor Recipient Information\Payor Recipient Information\Payor Recipient Information\obj\Debug\net8.0-windows\DT529PAYOR.AssemblyInfo.cs
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\Payor Recipient Information\Payor Recipient Information\Payor Recipient Information\obj\Debug\net8.0-windows\DT529PAYOR.csproj.CoreCompileInputs.cache
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\obj\Debug\net8.0-windows\DT529PAYOR.csproj.AssemblyReference.cache
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\obj\Debug\net8.0-windows\Payor_Recipient_Information.Properties.Resources.resources
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\obj\Debug\net8.0-windows\DT529PAYOR.csproj.GenerateResource.cache
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\obj\Debug\net8.0-windows\DT529PAYOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\obj\Debug\net8.0-windows\DT529PAYOR.AssemblyInfoInputs.cache
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\obj\Debug\net8.0-windows\DT529PAYOR.AssemblyInfo.cs
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\obj\Debug\net8.0-windows\DT529PAYOR.csproj.CoreCompileInputs.cache
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\obj\Debug\net8.0-windows\Payor_Recipient_Information.Payor_Recipient_Information.resources
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\bin\Debug\net8.0-windows\DT529PAYOR.exe
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\bin\Debug\net8.0-windows\DT529PAYOR.dll.config
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\bin\Debug\net8.0-windows\DT529PAYOR.deps.json
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\bin\Debug\net8.0-windows\DT529PAYOR.runtimeconfig.json
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\bin\Debug\net8.0-windows\DT529PAYOR.dll
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\bin\Debug\net8.0-windows\DT529PAYOR.pdb
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\obj\Debug\net8.0-windows\DT529PAYOR.csproj.Up2Date
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\obj\Debug\net8.0-windows\DT529PAYOR.dll
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\obj\Debug\net8.0-windows\refint\DT529PAYOR.dll
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\obj\Debug\net8.0-windows\DT529PAYOR.pdb
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\obj\Debug\net8.0-windows\DT529PAYOR.genruntimeconfig.cache
+C:\Users\reese.fuhrman\Desktop\OfficialProjects\DT529PAYOR Application\DT529PAYOR Application\DT529PAYOR Application\obj\Debug\net8.0-windows\ref\DT529PAYOR.dll
